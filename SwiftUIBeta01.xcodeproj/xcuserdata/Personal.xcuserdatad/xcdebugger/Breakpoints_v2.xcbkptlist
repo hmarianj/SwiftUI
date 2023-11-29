@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B3B68C71-EBE8-456A-B20C-BA0428FB921B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2553CA6-BCFD-45F0-B7C1-B4BA70553F47"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUIBeta01/TextEditorSwiftUIView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "B2553CA6-BCFD-45F0-B7C1-B4BA70553F47 - c4707dc53d1d05e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt; in SwiftUIBeta01.TextEditorSwiftUIView.body.getter : some"
+                  moduleName = "SwiftUIBeta01"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Personal/Documents/FundamentosSwift/SwiftUIBeta01/SwiftUIBeta01/TextEditorSwiftUIView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1784">
+               </Location>
+               <Location
+                  uuid = "B2553CA6-BCFD-45F0-B7C1-B4BA70553F47 - 3939769b26fe2f58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0)&gt; in SwiftUIBeta01.TextEditorSwiftUIView.body.getter : some"
+                  moduleName = "SwiftUIBeta01"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Personal/Documents/FundamentosSwift/SwiftUIBeta01/SwiftUIBeta01/TextEditorSwiftUIView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
