@@ -9,8 +9,8 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-// (alignment: .leading)me alinea la vista a la izquirda
-// spacing: 18 me separa el spacio entre los elementos de la VS
+// (alignment: .leading)me alinea la vista a la izquierda
+// spacing: 18 me separa el espacio entre los elementos de la VS
 // ZSTACK es una vista que esta arriba de otra
         ZStack {
             VStack (alignment: .leading, spacing: 8) {
